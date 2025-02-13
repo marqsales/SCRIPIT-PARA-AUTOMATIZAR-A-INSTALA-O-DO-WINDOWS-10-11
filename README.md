@@ -1,4 +1,4 @@
-# SCRIPIT PARA AUTOMATIZAR CONFIGURAÇÃO NA INSTALAÇÃO DO WINDOWS 10/11 
+# SCRIPIT PARA AUTOMATIZAR CONFIGURAÇÃO NA INSTALAÇÃO DO WINDOWS 10/11 Pela Dime 
 
 O script foi criado com o objetivo de automatizar e agilizar configurações no Windows 10/11, envolvendo uma série de tarefas executadas simultaneamente durante a criação de imagens.
 
